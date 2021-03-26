@@ -1,4 +1,4 @@
-# Django E-commerce
+# Commercial Website
 
 This is a very simple e-commerce website built with Django.
 
