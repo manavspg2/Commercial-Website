@@ -49,7 +49,6 @@
   }
 }
 
-// Masonry layout flex
 .masonry-with-flex {
   display: flex;
   flex-direction: column;
