@@ -57,7 +57,7 @@ If you'd like to support this project and all the other open source work on this
 
 ### Option 1: GitHub Sponsors
 
-Sponsor through GitHub Sponsors. On GitHub, [this repository](https://github.com/justdjango/django-ecommerce) shows a button where you can Sponsor the contributors.
+Sponsor through GitHub Sponsors. On GitHub, [this repository](https://github.com/manavspg2/Commercial-Website) shows a button where you can Sponsor the contributors.
 
 ### Option 2: JustDjango
 
