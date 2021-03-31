@@ -50,11 +50,6 @@ python manage.py runserver
 
 ---
 
-## Follow the tutorial
-
-This project is part of a [series on YouTube](https://youtu.be/z4USlooVXG0) that teaches how to build an e-commerce website with Django.
-
----
 
 ## Support
 
