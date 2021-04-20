@@ -1,4 +1,4 @@
-# Commercial Website
+# FlipMozart
 
 This is a very simple e-commerce website built with Django, along with E-commerce API for interaction and information retrieval.
 
