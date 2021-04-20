@@ -1,6 +1,6 @@
 # Commercial Website
 
-This is a very simple e-commerce website built with Django.
+This is a very simple e-commerce website built with Django, along with E-commerce API for interaction and information retrieval.
 
 ## Project Summary
 
