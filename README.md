@@ -1,6 +1,6 @@
 # FlipMozart
 
-E-commerce website built with Django, along with E-commerce API for interaction and information retrieval. It has caching tool for the data.
+E-commerce website built with Django, along with E-commerce API for interaction and information retrieval. It has caching tool for the database.
 
 ## Project Summary
 
